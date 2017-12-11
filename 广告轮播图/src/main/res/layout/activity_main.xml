@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.viewpager.MainActivity">
+
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="180dp">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true" android:layout_alignParentStart="true">
+
+        </android.support.v4.view.ViewPager>
+
+
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="50dp"
+                      android:layout_alignParentBottom="true"
+                      android:orientation="vertical"
+                      android:background="#33000000">
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorAccent"
+                android:layout_gravity="center_horizontal"
+                android:textSize="20sp"
+                android:text="图片的title"/>
+
+
+            <!--装点的容器-->
+            <LinearLayout
+                android:id="@+id/point_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal">
+
+               <!-- <View android:layout_width="10dp"
+                      android:layout_height="10dp"
+
+                android:background="@drawable/point_normal">
+                </View>
+
+                <View android:layout_width="10dp"
+                      android:layout_height="10dp"
+                android:background="@drawable/point_selected"
+                android:layout_marginLeft="10dp">
+                </View>-->
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

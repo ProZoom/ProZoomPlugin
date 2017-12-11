@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OutTicket</string>
+    <string name="order_num2">123456789</string>
+    <string name="total_money">收款金额:</string>
+    <string name="total_money2">100元</string>
+    <string name="total_money3">收款金额:100元</string>
+    <string name="payment1">付   款   人:</string>
+    <string name="payment2">王某某</string>
+    <string name="paydate1">到账时间:</string>
+    <string name="paydate2">2014年1月15日</string>
+    <string name="hint_success">收款成功!</string>
+    <string name="third_search">搜索中</string>
+
+</resources>

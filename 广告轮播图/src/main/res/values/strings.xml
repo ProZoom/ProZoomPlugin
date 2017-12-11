@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">广告轮播图</string>
+
+
+    <string name="title_one">我的广告位1</string>
+    <string name="title_two">我的广告位2</string>
+    <string name="title_three">我的广告位3</string>
+    <string name="title_four">我的广告位4</string>
+    <string name="title_five">我的广告位5</string>
+</resources>

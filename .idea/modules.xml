@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProUtils/ProUtils.iml" filepath="$PROJECT_DIR$/ProUtils/ProUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProZoomPlugin.iml" filepath="$PROJECT_DIR$/ProZoomPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlemenu/circlemenu.iml" filepath="$PROJECT_DIR$/circlemenu/circlemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loading/loading.iml" filepath="$PROJECT_DIR$/loading/loading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outticket/outticket.iml" filepath="$PROJECT_DIR$/outticket/outticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission/permission.iml" filepath="$PROJECT_DIR$/permission/permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splash/splash.iml" filepath="$PROJECT_DIR$/splash/splash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surpertextview/surpertextview.iml" filepath="$PROJECT_DIR$/surpertextview/surpertextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tagcloud/tagcloud.iml" filepath="$PROJECT_DIR$/tagcloud/tagcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/三级菜单/三级菜单.iml" filepath="$PROJECT_DIR$/三级菜单/三级菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/下拉菜单/下拉菜单.iml" filepath="$PROJECT_DIR$/下拉菜单/下拉菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/九宫格解锁/九宫格解锁.iml" filepath="$PROJECT_DIR$/九宫格解锁/九宫格解锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/优酷菜单/优酷菜单.iml" filepath="$PROJECT_DIR$/优酷菜单/优酷菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/广告轮播图/广告轮播图.iml" filepath="$PROJECT_DIR$/广告轮播图/广告轮播图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/消息气泡/消息气泡.iml" filepath="$PROJECT_DIR$/消息气泡/消息气泡.iml" />
+      <module fileurl="file://$PROJECT_DIR$/游戏手柄/游戏手柄.iml" filepath="$PROJECT_DIR$/游戏手柄/游戏手柄.iml" />
+      <module fileurl="file://$PROJECT_DIR$/界面引导/界面引导.iml" filepath="$PROJECT_DIR$/界面引导/界面引导.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络类/网络类.iml" filepath="$PROJECT_DIR$/网络类/网络类.iml" />
+    </modules>
+  </component>
+</project>
